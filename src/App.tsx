@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-    <html className='!scroll-smooth'>
+    <html className='!scroll-smooth overflow-x-hidden'>
       <Section0 />
       <Section1 />
       <Section2 />

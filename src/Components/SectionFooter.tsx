@@ -50,7 +50,7 @@ export function SectionFooter() {
                       3116339001
                     </span>
                   </li>
-                  <li>
+                  {/* <li>
                     <a
                       className="text-gray-300 hover:text-gray-600 font-semibold block pb-2 text-sm"
                       href="https://blog.creative-tim.com?ref=njs-profile"
@@ -60,7 +60,7 @@ export function SectionFooter() {
                     <span className="block uppercase text-gray-300 text-sm font-semibold mb-2">
                     jfrodriguez.arcancode@gmail.com
                     </span>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
