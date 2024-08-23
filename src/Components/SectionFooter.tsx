@@ -20,7 +20,7 @@ export function SectionFooter() {
                 <Linkedin className="h-full w-2/4 text-neutral-500 dark:text-neutral-300" />
               </a>
               <a
-                href="https://github.com/JuanRodriguezdev2"
+                href="https://github.com/JURFLEX"
                 className="bg-white text-lightBlue-600 shadow-lg font-normal h-10 w-10 flex items-center justify-center rounded-full outline-none focus:outline-none mr-2"
                 type="button"
               >

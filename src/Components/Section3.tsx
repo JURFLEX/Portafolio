@@ -38,7 +38,7 @@ export function Section3() {
       icon: (
         <Github className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "https://github.com/JuanRodriguezdev2",
+      href: "https://github.com/JURFLEX",
     },
     {
       title: "Whatsapp",
