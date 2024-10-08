@@ -16,7 +16,7 @@ export function Section3() {
           alt="Aceternity Logo"
         />
       ),
-      href: "#",
+      href: "#about",
     },
     // {
     //   title: "Changelog",
@@ -38,7 +38,7 @@ export function Section3() {
       icon: (
         <Github className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "https://github.com/JURFLEX",
+      href: "https://github.com/JuanRodriguezdev2",
     },
     {
       title: "Whatsapp",

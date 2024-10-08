@@ -18,7 +18,6 @@ export function Section0() {
           />
         </div>
         <div className="flex max-sm:flex-col gap-4 justify-center items-center">
-
         <img src={Ava} className="w-1/3" />
         <div>
           <h1 className="md:text-5xl text-3xl lg:text-7xl font-bold text-center bg-clip-text text-transparent drop-shadow-2xl bg-gradient-to-b from-white/80 to-white/20 relative z-20">
@@ -32,10 +31,6 @@ export function Section0() {
           <Section3 />
         </div></div>
         </div>
-        
-        
-        
-      
       </div>
     </>
   );
